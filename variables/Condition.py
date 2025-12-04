@@ -7,7 +7,7 @@ elif age == 17:
     print("You will be eligible to vote next year.")
 
 elif age <= 0:
-    print("Invalid Age.")
+    print("Invalid Age .")
 
 elif age >= 101:
     print("Please Enter age Less than or equal to 100.")
