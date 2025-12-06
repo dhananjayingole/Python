@@ -34,3 +34,18 @@ print("Count of 2:", count_of_2)
 # sort
 a.sort()  # sorting the list in ascending order 
 print("List after sort:", a)
+
+# reverse
+a.reverse()  # reversing the list       
+print("List after reverse:", a)
+
+# finidng Common Elements between two lists
+list1 = [1, 2, 3, 4, 5] 
+list2 = [4, 5, 6, 7, 8]
+
+s1 = set(list1)
+s2 = set(list2)
+
+s3 = s1.intersection(s2)  # finding common elements
+common_elements = list(s3)  # converting set back to list
+print("Common elements between list1 and list2:", common_elements)
