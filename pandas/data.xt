@@ -1,3 +1,18 @@
 1 - Understand the Data
 2 - Identify the Problem
 3 - Plan next Steps
+
+# single column return series
+# multiple Column return dataframe
+
+Accessing Single Column Syntax
+column = df["Column Name"]
+Accessing mutliple Column Syntax
+subset = df["Column1", "Column2","..."]
+
+Filtering of rows
+# based on Single Condition
+filtered_rows = df[df["Column1"] > 50000]
+
+#combining multiple conditions
+filtered_rows = df[(df["Column1"] > 50000) & (df["Column2"] < 80000)]

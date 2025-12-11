@@ -13,4 +13,3 @@ print(df.info()) #it Display the Info of datasets.
 print("Statistical DataSet:",df.describe()) #it Display the statistical summary of datasets.
 print("Columns in DataSet:",df.columns) #it Display the columns of datasets.
 print("Shape of DataSet:",df.shape) #it Display the shape of datasets.
-print("DataSet Index:",df.index) #it Display the index of datasets.
