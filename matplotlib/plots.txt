@@ -1,0 +1,14 @@
+line plot -> it is one of the Basic types of Data Visualization
+used to show how values change over a Sequence.
+
+x/y-axis  -> it shows Hz and Vertical Data ploting
+Axes -> Graph box , actual area that Plots the Graph.
+
+plot -> the final result Seen
+marker->symbol or dot
+line style->how lines are drawn in Graph
+
+Color-> color of line, marker
+legend-> it shows which line represent what
+label -> to explain what x and y axis doing
+
