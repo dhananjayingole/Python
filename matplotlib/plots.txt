@@ -12,3 +12,30 @@ Color-> color of line, marker
 legend-> it shows which line represent what
 label -> to explain what x and y axis doing
 
+matlpotlib Object oriented Api -> an explicit and structured approach to
+creating visualizations by directly managing the individual components of a plot as objects
+
+functions
+plt.plot-> to draw a plot
+# plt.plot(x, y, color='color name', linestyle = 'line_style',linewidth = value, marker='marker symbol', label='label name')
+
+plt.legend -> it explain about the graph in samll rectangualr box.
+plt.grid ->hz & vert lines add karta behind the graph 
+
+plt.xlim -> it can control limit of x ranges
+plt.ylim ->it can control limit of y ranges
+
+plt.xticks ->used to replace the x-axis ranges with other
+plt.yticks ->used to replace the y-axis ranges with other
+
+
+barchart-> category comparison & Data Analysis
+Pie chart-> proportion illustration whole representation
+histogram -> Numerical Distribution Data Insights
+
+scatter plot -> observe and display the relationship, or correlation,
+between two different numerical variables. 
+
+subplot is useful to compare Multiple charts
+-> Space bachega
+->quickly analyse releated Database.
